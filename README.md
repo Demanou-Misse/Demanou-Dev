@@ -1,4 +1,4 @@
-# 👋 Hello world! I'm Demanou Dev
+# 👋 Hello world! I'm Demanou Misse
 
 🧠 Passionate about programming and solving problems  
 ☕ Currently focused on mastering 'Java' and 'Git'  
